@@ -1,5 +1,5 @@
 ﻿using BTD_Mod_Helper.Api.Towers;
-using Il2CppAssets.Scripts.Utils;
+using Il2CppNinjaKiwi.Common.ResourceUtils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
